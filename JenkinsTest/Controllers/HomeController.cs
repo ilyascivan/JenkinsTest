@@ -15,7 +15,7 @@ namespace JenkinsTest.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page. First Commit";
 
             return View();
         }
